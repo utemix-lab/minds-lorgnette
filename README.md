@@ -26,6 +26,7 @@ stack:
   connectivity:
     driver: graph_knowledge_base
     backend: neo4j
+```
 
 Цель проекта — превратить эту конфигурацию в работающую систему, где каждый драйвер — это заменяемый модуль с чётким API.
 
