@@ -39,6 +39,4 @@ depends: ["DOC_VISION_V1"]
 
 [Ввод текста] -> [Ядро] -> [Semantics Driver] -> [Ontology Driver] -> [Connectivity Driver] -> [Storage Driver]
 
-text
-
 Такая архитектура делает систему невероятно гибкой. Замените один драйвер — и вы получите принципиально иное поведение.
