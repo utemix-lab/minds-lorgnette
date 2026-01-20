@@ -3,7 +3,7 @@
 Среда для разработки производных от extended-mind широкого назначения.
 
 Project Status: Concept  
-License: Apache 2.0
+License: MIT
 
 ## Роль в экосистеме
 
@@ -145,4 +145,4 @@ minds-lorgnette/
 
 ## Лицензия
 
-Apache License 2.0
+MIT © utemix-lab
