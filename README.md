@@ -102,9 +102,11 @@ stack:
   connectivity:
     driver: graph_knowledge_base
     backend: neo4j
-Структура проекта
-perl
-Копировать код
+```
+
+Структура проекта:
+
+```
 minds-lorgnette/
 ├── docs/
 │   ├── 0_context/      # Видение и контекст
@@ -114,6 +116,8 @@ minds-lorgnette/
 ├── mindflow/           # Журнал исследований
 ├── ecosystem/          # Экосистемный слой
 └── prototype/          # Код прототипа (в разработке)
+```
+
 Для кого это
 Исследователи ИИ — эксперименты с RAG, графами, агентами
 
